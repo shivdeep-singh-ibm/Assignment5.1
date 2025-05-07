@@ -3,7 +3,6 @@
 ## Overview
 This project focuses on analyzing a dataset to understand the factors influencing coupon usage. By examining user attributes, contextual factors, and coupon characteristics, we aim to uncover patterns and insights into customer behavior. The goal is to analyze the data using visualizations and statistical methods to identify patterns and characteristics of drivers who are more likely to accept coupons. The analysis also highlights the differences between customers who accepted and those who did not accept the coupons. This analysis can help businesses optimize coupon delivery strategies to increase acceptance rates. The project will be limited to analysis of visualizations and statistical parameters without using ML models.
 
-
 ## Context
 Imagine driving through town and receiving a coupon for a nearby restaurant, coffee house, or bar. Would you accept it? Factors such as the type of coupon, the presence of passengers, weather, time of day, and the driver's destination may influence this decision. This project investigates these factors to determine the likelihood of coupon acceptance.
 
@@ -66,7 +65,7 @@ Expiration: Valid for 2 hours or one day.
 
 ### Findings
 1. **Customer Behavior**:
-    - Customers who frequently visit bars, coffee houses, and restaurants are more likely to accept coupons. ![Coffee Coupon sub plot over various attributes](images/Acceptance_Rates_Coffee_over_Driver_Attributevisualization.png)
+    - Customers who frequently visit bars, coffee houses, and restaurants are more likely to accept coupons. ![Coffee Coupon sub plot over various attributes](images/Acceptance_Rates_Coffee_over_Driver_Attribute.png)
     - Social context, such as traveling with friends or family, increases coupon acceptance rates.
     - Overall, bar coupons tend to be accepted lower than coupons for cheap restaurants and carryaway/takeout coupons.
     - Drivers tend to accept bar coupons more when they are heading home.
